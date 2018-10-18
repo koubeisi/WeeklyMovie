@@ -1,0 +1,12 @@
+<view class="container">
+
+  <image class="about-banner" src="/images/dog.jpg"></image>
+  <text style='font-weight:bold;font-size:60rpx;'>电影周周看</text>
+
+  <view>
+    <navigator style='display:inline;' url='/pages/weekly/weekly' open-type='switchTab' hover-class='nav-hover' class='nav-default'>每周推荐</navigator><text>一部好电影</text>
+  </view>
+
+  <text>我的微博：weibo.com/koubeisi</text>
+
+</view>
