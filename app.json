@@ -1,7 +1,8 @@
 {
   "pages": [
     "pages/weekly/weekly",
-    "pages/about/about"
+    "pages/about/about",
+    "pages/detail/detail"
     
   ],
   "tabBar":{

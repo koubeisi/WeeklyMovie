@@ -1,0 +1,4 @@
+.detial-image{
+  width: 300rpx;
+  /* height: 747px; */
+}
